@@ -15,7 +15,7 @@
 * Select your connection port under toolbar - Tools/Port
 * Create a new sketch fill and use following example script
 
-```
+```cpp
 #include <iovisualizer.h>
 iovisualizer iov;
  
