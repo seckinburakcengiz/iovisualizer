@@ -11,6 +11,7 @@
 * Download this repository
 * Import [I/O Visualizer (Arduino Library)](iovisualizer/) to your Arduino Libraries - Sketch/Include Library/Add .ZIP Library...
 ![Import Library](Images/ImportLibrary.png)
+<img src="Images/ImportLibrary.png" width="600">
 * Select your arduino board under toolbar - Tools/Board
 * Select your connection port under toolbar - Tools/Port
 * Create a new sketch fill and use following example script
